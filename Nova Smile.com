@@ -161,7 +161,7 @@
   <!-- Üst Bilgi -->
   <div class="top-bar">
     <div class="top-left">
-      <span>📞 ‪+90 (530) 323 41 32‬</span>
+      <span>📞 ‪‬</span>
       <span>
         <img src="whatsapp.png" alt="WhatsApp" />
         <a href="https://wa.me/905303234132" target="_blank">Buradan ulaşın</a>
